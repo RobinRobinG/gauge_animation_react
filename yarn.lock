@@ -8330,9 +8330,9 @@ qs@6.7.0:
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^4.1.0:
   version "4.3.4"
@@ -8515,6 +8515,11 @@ react-scripts@3.4.1:
     workbox-webpack-plugin "4.3.1"
   optionalDependencies:
     fsevents "2.1.2"
+
+react-svg-gauge@^1.0.10:
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/react-svg-gauge/-/react-svg-gauge-1.0.10.tgz#73e10fdbf91c6bbce908520a0a64d2dc55d6f1ee"
+  integrity sha512-1w6BL2BDB0UP+9PmFhhbXYHiJ21DaNXQbFMN1bJLQPR4AkrirYAewRQoK29Z+U7nAJP4gw5bfxJFpVKVTrHp6A==
 
 react@^16.13.1:
   version "16.13.1"
@@ -9699,6 +9704,11 @@ supports-color@^7.0.0, supports-color@^7.1.0:
   integrity sha512-oRSIpR8pxT1Wr2FquTNnGet79b3BWljqOuoW/h4oBhxJ/HUbX5nX6JSruTkvXDCFMwDPvsaTTbvMLKZWSy0R5g==
   dependencies:
     has-flag "^4.0.0"
+
+svg-gauge@^1.0.6:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/svg-gauge/-/svg-gauge-1.0.7.tgz#0018cad7da3346d2508a79393f78990fb45bc5a0"
+  integrity sha512-k+tG+e6kmTvO80FFS595XzKKF6b6T2KCr5ruzfQ9udl7h72Psl18QElgBrR7ezQd7aZROBNSN7WIle/CyJVCPA==
 
 svg-parser@^2.0.0:
   version "2.0.4"
